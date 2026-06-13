@@ -1,0 +1,13 @@
+.cont{
+    background-color: rgb(41,41,46);
+    height: 83px;
+    width: 364px;
+    padding: 8px 30px 8px 8px;
+    border-radius: 8px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}

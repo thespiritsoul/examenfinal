@@ -1,0 +1,19 @@
+.cont{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    width: 100%;
+}
+
+.tit{
+    color: white;
+    font-style: bold;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.cue{
+    color: rgba(196, 196, 204, 1);
+    font-weight: 400;
+    font-size: 14px;
+}
